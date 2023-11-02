@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+    color: blue;
+    
+}
+#counter_up{
+    padding: 50px 0;
+    background: lightblue;
+
+}
+.item_part{
+    display: flex;
+}
+.item{
+    width: 25%;
+    padding: 20px;
+    background: lightgreen;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 4px 4px 4px black;
+    margin-right: 20px;
+    border: 20px solid green;
+    box-shadow: 10px 10px grey;
+    border-radius: 20%;
+}
